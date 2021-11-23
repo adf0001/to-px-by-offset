@@ -1,0 +1,27 @@
+{
+  "name": "to-px-by-offset",
+  "version": "1.0.1",
+  "description": "transfer css property to px unit, by comparing offset-x properties.",
+  "main": "to-px-by-offset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transfer",
+    "css",
+    "px"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/to-px-by-offset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/to-px-by-offset/issues"
+  },
+  "homepage": "https://github.com/adf0001/to-px-by-offset#readme"
+}
